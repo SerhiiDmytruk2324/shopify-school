@@ -17,7 +17,7 @@
           "settings": {
             "image": "shopify://shop_images/slide-1.jpg",
             "image_overlay_opacity": 0,
-            "heading": "More than just shoes — it’s a part of your story.",
+            "heading": "<strong>More than just shoes — it’s a part of your story.</strong>",
             "heading_size": "h1",
             "subheading": "Original sneakers from Nike and other top brands that make every step feel special.",
             "button_label": "Shop the Collection",
@@ -30,31 +30,32 @@
             "color_scheme": "scheme-4"
           }
         },
-        "slide_4V89ax": {
+        "slide_exwdGK": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/slide-1.jpg",
             "image_overlay_opacity": 0,
-            "heading": "Image slide",
+            "heading": "<strong>More than just shoes — it’s a part of your story.</strong>",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
+            "subheading": "Original sneakers from Nike and other top brands that make every step feel special.",
+            "button_label": "Shop the Collection",
+            "link": "shopify://collections",
             "button_style_secondary": false,
-            "show_text_box": true,
-            "box_align": "middle-center",
-            "text_alignment": "center",
+            "show_text_box": false,
+            "box_align": "middle-left",
+            "text_alignment": "left",
             "text_alignment_mobile": "center",
-            "color_scheme": ""
+            "color_scheme": "scheme-4"
           }
         }
       },
       "block_order": [
         "slide_VBPrQ7",
-        "slide_4V89ax"
+        "slide_exwdGK"
       ],
       "name": "t:sections.slideshow.presets.name",
       "settings": {
-        "layout": "grid",
+        "layout": "full_bleed",
         "slide_height": "adapt_image",
         "slider_visual": "dots",
         "auto_rotate": false,
