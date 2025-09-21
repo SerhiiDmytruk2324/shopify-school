@@ -74,7 +74,7 @@
       ],
       "custom_css": [
         ".slider-mobile-gutter.mobile-text-below {position: relative; z-index: 1;}",
-        ".slideshow__controls.slider-buttons {position: absolute; top: 600px; z-index: 10; left: 0; width: 100%;}",
+        ".slideshow__controls.slider-buttons {position: absolute; bottom: 10px; z-index: 10; left: 0; width: 100%;}",
         ".slider-counter__link.slider-counter__link--dots.link.slider-counter__link--active {border-radius: 10px; background-color: red;}",
         ".slider-button--prev,.slider-button--next {display: none;}"
       ],
