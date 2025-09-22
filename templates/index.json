@@ -16,6 +16,8 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/slide-1.jpg",
+            "video_url": "https://www.youtube.com/watch?v=VW2nUA7yrJw",
+            "video_url_mobile": "https://www.youtube.com/watch?v=Px0xJ74orwk&pp=ygUTdmVydGljYWwgdmlkZW8gbmlrZQ%3D%3D",
             "image_overlay_opacity": 0,
             "heading": "<strong>MORE THAN JUST SHOES — IT’S A PART OF YOUR STORY.</strong>",
             "heading_size": "h1",
@@ -34,6 +36,8 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/slide-2.jpg",
+            "video_url": "",
+            "video_url_mobile": "",
             "image_overlay_opacity": 0,
             "heading": "<strong>More than just shoes — it’s a part of your story.</strong>",
             "heading_size": "h1",
@@ -52,6 +56,8 @@
           "type": "slide",
           "settings": {
             "image": "shopify://shop_images/slide-3.jpg",
+            "video_url": "",
+            "video_url_mobile": "",
             "image_overlay_opacity": 0,
             "heading": "<strong>More than just shoes — it’s a part of your story.</strong>",
             "heading_size": "h1",
